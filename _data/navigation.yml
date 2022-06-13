@@ -3,7 +3,7 @@ main:
     url: /projects/
   - title: "Blog"
     url: /blog/
-  - title: "Resume"
-    url: /resume/
+  - title: "Experience"
+    url: /experience/
   - title: "YT Analytics"
     url: /yt-analytics/
